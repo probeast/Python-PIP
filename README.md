@@ -7,7 +7,7 @@ Installing with get-pip.py
 
 To install pip, securely 1 download get-pip.py by following this link: get-pip.py. Alternatively, use curl:
 
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+"curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py"
 
 Then run the following command in the folder where you have downloaded get-pip.py:
 

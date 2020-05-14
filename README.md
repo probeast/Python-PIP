@@ -13,7 +13,7 @@ Then run the following command in the folder where you have downloaded get-pip.p
 
 python get-pip.py
 
-Warning
+## Warning
 
 Be cautious if you are using a Python install that is managed by your operating system or another package manager. get-pip.py does not coordinate with those tools, and may leave your system in an inconsistent state.
 
@@ -24,11 +24,11 @@ get-pip.py also installs setuptools  and wheel if they are not already. setuptoo
 The get-pip.py script is supported on the same python version as pip. For the now unsupported Python 2.6, alternate script is available here.
 get-pip.py options
 
-# --no-setuptools
+## --no-setuptools
 
     If set, do not attempt to install setuptools
 
-# --no-wheel
+## --no-wheel
 
     If set, do not attempt to install wheel
 
